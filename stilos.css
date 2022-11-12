@@ -1,0 +1,57 @@
+header
+{
+    background-color: aqua;
+}
+
+.contener{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+width: 200px;
+}
+box{
+   display: flex; 
+}
+.box div´{
+    background-color: aqua;
+    width: 100vh;
+}
+box{
+    display: flex;
+    .box div
+     background-color: ;
+     width: 100vh
+     border: 2px .solid
+    
+}
+.box div img{
+
+}width: 50%;
+header
+{
+    background-color: aqua;
+}
+
+.contener{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+width: 200px;
+}
+box{
+   display: flex; 
+}
+.box div{
+    background-color: aqua;
+    width: 100vh;
+}
+{
+.box class .box
+border: 40px;
+display: flex;
+}
+
